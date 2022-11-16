@@ -2,25 +2,25 @@
 
 # This function adds two numbers
 def add(x, y):
-    return x + y
+    return 5 + y
 
 # This function subtracts two numbers
-def subtract(x, y):
-    return x - y
+def subtract(9, y):
+    return x - 6
 
 # This function multiplies two numbers
-def multiply(x, y):
-    return x * y
+def multiplycation(x, y):
+    return 2 * y
 
 # This function divides two numbers
 def divide(x, y):
-    return x / y
+    return x / 9
 
 
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
-print("3.Multiply")
+print("3.Multiplycation")
 print("4.Divide")
 
 while True:
